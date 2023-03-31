@@ -1,24 +1,20 @@
-### Hi there 👋
+### Hola 👋
 
-   I'm Maycol, a Full-Stack Engineer with exceptional programming, debugging and problem-solving skills
-   in order to guarantee the overall quality of a product. Self-  taught, and fast learner who works efficiently in a team.
-   Interested in developing and managing projects using agile methodologies to ensure an excellent user experience,
-   exceed company goals and improve full-stack developer skills.
-
+   Soy Maycol, un Full-Stack Engineer con excepcionales habilidades de programación, depuración y resolución de problemas para garantizar la calidad general de un producto. Autodidacta, y de rápido aprendizaje que trabaja eficientemente en equipo. Interesado en desarrollar y gestionar proyectos utilizando metodologías ágiles para garantizar una excelente experiencia de usuario, superar los objetivos de la empresa y mejorar las habilidades de desarrollador full-stack.
 
 ### Dev Skills
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,ruby,rails,python,django,java,spring,regex,mysql,postgresql,mongodb,firebase,redis,aws,gcp,docker,git,github,javascript,typescript,react,next,html,css,sass,bootstrap,figma,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgresql,git,github,javascript,typescript,react,html,css,figma" />
   </a>
 </p>
 
 
 ### Soft skills
-   - Empathy
-   - Teamwork
-   - Communication
+   - Empatía
+   - Trabajo en equipo
+   - Comunicación
    - Open-Mindedness
-   - Self-learning
-   - Problem solving
+   - Autoaprendizaje
+   - Resolución de problemas
